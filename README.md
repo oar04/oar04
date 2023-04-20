@@ -6,7 +6,7 @@
 - ⚡ Some hobbies I enjoy are video games and martial arts
 
 #### Languages and Technologies
-
+<p>
 <img style=width:60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img style=width:60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img style=width:60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -16,7 +16,7 @@
 <img style=width:60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img style=width:60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" />
 <img style=width:60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-
+</p>
 
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
