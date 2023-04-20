@@ -1,22 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Osman 👋
 
-<!--
-**oar04/oar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍🎓 BSc Computer Science
+- 🔭 I’m currently training to be a data engineer
+- 🌱 I’m intersted in learning more about the life-cycle of data and AI
+- ⚡ Some hobbies I enjoy are video games and martial arts
 
-Here are some ideas to get you started:
+#### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- HTML/CSS
+- JavaScript
+- PHP
+- C#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oar04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=oar04&show_icons=true&&count_private=true&include_all_commits=true)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=court534&" alt="oar04" /></p>aaa -->
+
+
+![LinkedIn Data](https://user-images.githubusercontent.com/98668593/233401754-902cf9c6-ef41-4168-b869-ec34fae7adfb.png)
