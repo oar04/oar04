@@ -14,6 +14,11 @@
 - PHP
 - C#
 
+| Name                         | Description                     | Tech/tools                                                        |
+| -----------------------------| ------------------------        | ----------------------
+| **[Student Database][1]**      | An application that demonstrates CRUD database functionality      | Python, SQL
+| **[Real Estate Website][2]**       | A mock real estate website   | HTML, CSS, JavaScript, PHPs, Bootstrap
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oar04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=oar04&show_icons=true&&count_private=true&include_all_commits=true)
