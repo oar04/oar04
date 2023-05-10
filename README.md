@@ -1,8 +1,9 @@
 ### Hi there, I'm Osman 👋
 
-- 👨‍🎓 BSc Computer Science
+- 👨‍🎓 BSc Computer Science from Queen Mary University of London, class of 2022
 - 🔭 I’m currently training to be a data engineer
 - 🌱 I’m intersted in learning more about the life-cycle of data and AI
+- 🥅 Current goala of mine are to become a Xander Talent Data Engineering Consultant and contribute to projects and the successes of my colleauges
 - ⚡ Some hobbies I enjoy are video games and martial arts
 
 #### Languages and Technologies
@@ -20,6 +21,8 @@
 
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
+| **AutoDocstring**      | An application that reads through a Python file using the AST module and uses the text-davinci-3 LLM to analyse the script and assign docstrings to its methods    | HTML, CSS, JavaScript, OpenAI API
+| **ChatGPT JavaScript Clone**      | A webpage that makes API calls to the OpenAI GPT-3.5-Turbo LLM to produce a generative AI response      | HTML, CSS, JavaScript, OpenAI API
 | **Student Database**      | An application that demonstrates CRUD database functionality      | Python, SQL
 | **Real Estate Website**       | A mock real estate website   | HTML, CSS, JavaScript, PHPs, Bootstrap
 
