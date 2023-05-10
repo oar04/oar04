@@ -21,7 +21,7 @@
 
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
-| **AutoDocstring**      | An application that reads through a Python file using the AST module and uses the text-davinci-3 LLM to analyse the script and assign docstrings to its methods    | HTML, CSS, JavaScript, OpenAI API
+| **AutoDocstring**      | An application that reads through a Python file using the AST module and uses the text-davinci-3 LLM to analyse the script and assign docstrings to its methods    | Python, AST, OpenAI API
 | **ChatGPT JavaScript Clone**      | A webpage that makes API calls to the OpenAI GPT-3.5-Turbo LLM to produce a generative AI response      | HTML, CSS, JavaScript, OpenAI API
 | **Student Database**      | An application that demonstrates CRUD database functionality      | Python, SQL
 | **Real Estate Website**       | A mock real estate website   | HTML, CSS, JavaScript, PHPs, Bootstrap
