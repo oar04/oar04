@@ -3,7 +3,7 @@
 - 👨‍🎓 BSc Computer Science from Queen Mary University of London, class of 2022
 - 🔭 I’m currently training to be a data engineer
 - 🌱 I’m intersted in learning more about the life-cycle of data and AI
-- 🥅 Current goals of mine are to become a Xander Talent Data Engineering Consultant and contribute to projects and the successes of my colleauges
+- 🥅 Current goals of mine are to become a Xander Talent Data Engineering Consultant and contribute to projects and the successes of my colleagues
 - ⚡ Some hobbies I enjoy are video games and martial arts
 
 #### Languages and Technologies
