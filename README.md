@@ -1,7 +1,7 @@
 ### Hi there, I'm Osman 👋
 
 - 👨‍🎓 BSc Computer Science from Queen Mary University of London, class of 2022
-- 🔭 I’m currently training to be a data engineer
+- 🔭 I’m currently studying the blockchain data structure and creating projects using the Solidity language
 - 🌱 I’m intersted in learning more about the life-cycle of data and AI
 - 🥅 Current goals of mine are to become a Xander Talent Data Engineering Consultant and contribute to projects and the successes of my colleagues
 - ⚡ Some hobbies I enjoy are video games and martial arts
@@ -21,6 +21,7 @@
 
 | Name                         | Description                     | Tech/tools                                                        |
 | -----------------------------| ------------------------        | ----------------------
+| **Bitcoin News and Search Trend ETL**      | A notebook that extracts, transforms, and loads data from Bitcoin price data, Bitcoin Search trends data, and Cryptocurrency related news data; further analysis and visualisations are then made to interpret insights and trends    | Python, NLP, Data Visualisation, sklearn
 | **AutoDocstring**      | An application that reads through a Python file using the AST module and uses the text-davinci-3 LLM to analyse the script and assign docstrings to its methods    | Python, AST, OpenAI API
 | **ChatGPT JavaScript Clone**      | A webpage that makes API calls to the OpenAI GPT-3.5-Turbo LLM to produce a generative AI response      | HTML, CSS, JavaScript, OpenAI API
 | **Student Database**      | An application that demonstrates CRUD database functionality      | Python, SQL
@@ -30,7 +31,4 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=oar04&show_icons=true&&count_private=true&include_all_commits=true)
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=court534&" alt="oar04" /></p>aaa -->
 
-
-![LinkedIn Data](https://user-images.githubusercontent.com/98668593/233401754-902cf9c6-ef41-4168-b869-ec34fae7adfb.png)
